@@ -1,0 +1,9 @@
+/Users/roman/Desktop/trpo/lab2/ConApp/bin/Debug/ConApp.exe.config
+/Users/roman/Desktop/trpo/lab2/ConApp/bin/Debug/ConApp.exe
+/Users/roman/Desktop/trpo/lab2/ConApp/bin/Debug/ConApp.pdb
+/Users/roman/Desktop/trpo/lab2/ConApp/bin/Debug/Shapes.dll
+/Users/roman/Desktop/trpo/lab2/ConApp/bin/Debug/Shapes.pdb
+/Users/roman/Desktop/trpo/lab2/ConApp/obj/Debug/ConApp.csprojResolveAssemblyReference.cache
+/Users/roman/Desktop/trpo/lab2/ConApp/obj/Debug/ConApp.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/trpo/lab2/ConApp/obj/Debug/ConApp.exe
+/Users/roman/Desktop/trpo/lab2/ConApp/obj/Debug/ConApp.pdb

@@ -1,0 +1,5 @@
+/Users/roman/Desktop/trpo/lab2/Shapes/obj/Debug/Shapes.csproj.CoreCompileInputs.cache
+/Users/roman/Desktop/trpo/lab2/Shapes/bin/Debug/Shapes.dll
+/Users/roman/Desktop/trpo/lab2/Shapes/bin/Debug/Shapes.pdb
+/Users/roman/Desktop/trpo/lab2/Shapes/obj/Debug/Shapes.dll
+/Users/roman/Desktop/trpo/lab2/Shapes/obj/Debug/Shapes.pdb

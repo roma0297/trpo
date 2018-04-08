@@ -30,6 +30,7 @@ namespace Shapes
         public override int CompareTo(object obj)
         {
             var shape = obj as Shape;
+
             if(shape != null)
             {
                 if (GetArea() < shape.GetArea())

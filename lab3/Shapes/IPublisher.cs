@@ -10,4 +10,9 @@ namespace Shapes
     {
         event EventHandler<Location> LocationChanged;
     }
+
+    public interface IScalable
+    {
+        event EventHandler<int> AreaChanged;
+    }
 }

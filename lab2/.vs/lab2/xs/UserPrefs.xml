@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{7CF9BD26-19DE-4795-9858-05BF5ED92282}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConApp/Program.cs">
+    <Files>
+      <File FileName="ConApp/Factories/ShapeFactory.cs" Line="8" Column="39" />
+      <File FileName="Shapes/Polygon.cs" Line="44" Column="26" />
+      <File FileName="ConApp/Factories/PolygonFactory.cs" Line="29" Column="42" />
+      <File FileName="ConApp/Program.cs" Line="126" Column="33" />
+      <File FileName="Shapes/Pentagon.cs" Line="6" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
